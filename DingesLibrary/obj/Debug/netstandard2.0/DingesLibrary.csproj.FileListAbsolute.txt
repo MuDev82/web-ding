@@ -1,0 +1,8 @@
+D:\Data\Code\CSharp\_Bin\Web-Dinges\Web-Dinges\bin\Debug\netstandard2.0\DingesLibrary.deps.json
+D:\Data\Code\CSharp\_Bin\Web-Dinges\Web-Dinges\bin\Debug\netstandard2.0\DingesLibrary.dll
+D:\Data\Code\CSharp\_Bin\Web-Dinges\Web-Dinges\bin\Debug\netstandard2.0\DingesLibrary.pdb
+D:\Data\Code\CSharp\_Bin\Web-Dinges\Web-Dinges\obj\Debug\netstandard2.0\DingesLibrary.csprojAssemblyReference.cache
+D:\Data\Code\CSharp\_Bin\Web-Dinges\Web-Dinges\obj\Debug\netstandard2.0\DingesLibrary.AssemblyInfoInputs.cache
+D:\Data\Code\CSharp\_Bin\Web-Dinges\Web-Dinges\obj\Debug\netstandard2.0\DingesLibrary.AssemblyInfo.cs
+D:\Data\Code\CSharp\_Bin\Web-Dinges\Web-Dinges\obj\Debug\netstandard2.0\DingesLibrary.dll
+D:\Data\Code\CSharp\_Bin\Web-Dinges\Web-Dinges\obj\Debug\netstandard2.0\DingesLibrary.pdb

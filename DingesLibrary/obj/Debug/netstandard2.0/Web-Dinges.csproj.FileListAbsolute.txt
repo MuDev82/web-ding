@@ -1,0 +1,5 @@
+D:\Data\Code\CSharp\_Bin\Web-Dinges\Web-Dinges\bin\Debug\netstandard2.0\Web-Dinges.deps.json
+D:\Data\Code\CSharp\_Bin\Web-Dinges\Web-Dinges\bin\Debug\netstandard2.0\Web-Dinges.dll
+D:\Data\Code\CSharp\_Bin\Web-Dinges\Web-Dinges\obj\Debug\netstandard2.0\Web-Dinges.csprojAssemblyReference.cache
+D:\Data\Code\CSharp\_Bin\Web-Dinges\Web-Dinges\obj\Debug\netstandard2.0\Web-Dinges.AssemblyInfoInputs.cache
+D:\Data\Code\CSharp\_Bin\Web-Dinges\Web-Dinges\obj\Debug\netstandard2.0\Web-Dinges.AssemblyInfo.cs
